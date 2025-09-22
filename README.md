@@ -1,6 +1,8 @@
 # MachineLearningPhytoplanktonPaper
 Analysis and figure scripts for the paper "Using Machine Learning to Predict Phytoplankton Blooms in the Salish Sea"
 
+[![DOI](https://zenodo.org/badge/1050632297.svg)](https://doi.org/10.5281/zenodo.17180298)
+
 ## General Format
 Scripts are organized based on the phytoplankton variable of interest. Each variable folder has 3 files inside, which refer to the data processing. The folder Figures contains all the figures displayed in the paper and the supporting information.
 
